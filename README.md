@@ -37,6 +37,3 @@ NA - The project is part of a Codecademy course and doesn't require additional s
 ## Status
 
 Project Status: Completed
-
-## References
-
