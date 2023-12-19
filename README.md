@@ -16,11 +16,13 @@ This project is a part of the LEARN INTERMEDIATE JAVASCRIPT course from Codecade
 
 ## General Info
 
- The main purpose of this project is to understand Node.js module.exports and require() in JavaScript.
+ The main purpose of this project is to understand the Node.js module. exports and require() in JavaScript.
 
 ## To-do List
 
-- [ ] 
+- [ ] A “Caesar Cipher” in which the characters of the input message are shifted alphabetically by a given amount.
+- [ ] A “Symbol Cipher” in which select characters from the input message are replaced with visually similar symbols.
+- [ ] A “Reverse Cipher” in which each word of the input message is reversed in place.
 
 
 ## Technologies
