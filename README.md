@@ -31,6 +31,8 @@ This project is a part of the LEARN INTERMEDIATE JAVASCRIPT course from Codecade
 - CSS3
 - JavaScript ES6
 
+## Screenshots
+<img width="279" alt="image" src="https://github.com/anilk-anusha/messageEncryption/assets/130001836/9809ceb3-fb31-4a1d-8ad3-85235b2ef30c">
 
 ## Setup
 
